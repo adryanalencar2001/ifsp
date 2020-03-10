@@ -1,0 +1,11 @@
+E:\IFSP\2020\Matérias\LP3\Bimestre1\Aula02\bin\Debug\netcoreapp2.1\Aula02.deps.json
+E:\IFSP\2020\Matérias\LP3\Bimestre1\Aula02\bin\Debug\netcoreapp2.1\Aula02.runtimeconfig.json
+E:\IFSP\2020\Matérias\LP3\Bimestre1\Aula02\bin\Debug\netcoreapp2.1\Aula02.runtimeconfig.dev.json
+E:\IFSP\2020\Matérias\LP3\Bimestre1\Aula02\bin\Debug\netcoreapp2.1\Aula02.dll
+E:\IFSP\2020\Matérias\LP3\Bimestre1\Aula02\bin\Debug\netcoreapp2.1\Aula02.pdb
+E:\IFSP\2020\Matérias\LP3\Bimestre1\Aula02\obj\Debug\netcoreapp2.1\Aula02.csprojAssemblyReference.cache
+E:\IFSP\2020\Matérias\LP3\Bimestre1\Aula02\obj\Debug\netcoreapp2.1\Aula02.csproj.CoreCompileInputs.cache
+E:\IFSP\2020\Matérias\LP3\Bimestre1\Aula02\obj\Debug\netcoreapp2.1\Aula02.AssemblyInfoInputs.cache
+E:\IFSP\2020\Matérias\LP3\Bimestre1\Aula02\obj\Debug\netcoreapp2.1\Aula02.AssemblyInfo.cs
+E:\IFSP\2020\Matérias\LP3\Bimestre1\Aula02\obj\Debug\netcoreapp2.1\Aula02.dll
+E:\IFSP\2020\Matérias\LP3\Bimestre1\Aula02\obj\Debug\netcoreapp2.1\Aula02.pdb
